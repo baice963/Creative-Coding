@@ -1,6 +1,11 @@
 # Creative-Coding
 Parsons Paris Fall 2017
 
+Week 1<br>
+![](https://github.com/baice963/Creative-Coding/blob/master/homework1/homework1.gif?raw=true)</br>
+![](https://github.com/baice963/Creative-Coding/blob/master/homework%232/gif_2.gif?raw=true)</br>
+
+
 Week 3<br>
 ![](https://github.com/baice963/Creative-Coding/blob/master/homework_week3/giphy-downsized-large.gif?raw=true)</br>
 
