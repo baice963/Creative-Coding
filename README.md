@@ -2,6 +2,9 @@
 Parsons Paris Fall 2017
 
 Week 3
+![alt text][logo]
+
+[logo]:
 ![OF Shaders][Week 3](https://github.com/baice963/Creative-Coding/blob/master/homework_week3/giphy-downsized-large.gif?raw=true "Logo Title Text 1")
 
 Week 5
