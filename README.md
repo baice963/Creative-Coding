@@ -19,4 +19,7 @@ Week 5
 
 Week 8 <br>
  ![](https://github.com/baice963/Creative-Coding/blob/master/homework_week8/giphy.gif?raw=true)</br> 
-  
+ 
+ 
+Week 9 <br>
+ ![](https://github.com/baice963/Creative-Coding/blob/master/homework_week9/giphy-downsized-large%20(2).gif?raw=true)</br> 
